@@ -3,14 +3,15 @@
 :root {
   --white: rgba(255, 255, 255, 0.95);
   --black: #00012c;
-  --primary-color:  #3a6cd8;
-  --dark-primary-color:#2402ac;
+  --primary-color:  #04b9c2;
+  --dark-primary-color:#199171;
   --overlay:  rgba(0, 0, 0, 0.3);
   --grey: #d8d0e1;
-  --dark-grey: #7a7a7a;
-  --secondary-color:#c8f1ff;
+  --dark-grey: #6f6f6f;
+  --secondary-color:#c8fff7;
   --reviews: #ffd700;
 }
+
 body {
   font-family: "Raleway", sans-serif;
   margin: 0;
