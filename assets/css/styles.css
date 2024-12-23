@@ -82,7 +82,8 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color:var(--dark-primary-color);
+  color:var(--secondary-color);
+  font-weight: 700;
 }
 
 main {
